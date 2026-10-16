@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'HanGulim';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2610081905@regular/regular/한굴림체-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+  }
+  
 section {
     color: rgb(143, 227, 255);
     background-color: black;
