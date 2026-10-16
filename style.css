@@ -1,0 +1,183 @@
+section {
+    color: rgb(143, 227, 255);
+    background-color: black;
+}
+
+.storage {
+    height: 22vh;
+    width: 98vw;
+    position: absolute;
+    top: 2vh;
+    left: 1vw;
+}
+.storagedoor1 {
+    height: 10px;
+    width: 12vw;
+    position: absolute;
+    top: 25vh;
+    left: 1vw;
+}
+.storagedoor2 {
+    height: 10px;
+    width: 12vw;
+    position: absolute;
+    top: 25vh;
+    right: 1vw;
+}
+.terracedoor {
+    height: 20vh;
+    width: 10px;
+    position: absolute;
+    top: 50vh;
+    left: 10px;
+}
+.window {
+    height: 10px;
+    width: 6vw;
+    position: absolute;
+    top: 75vh;
+    left: 1vw; 
+}
+.bookshelf {
+    height: 13vh;
+    width: 74vw;
+    position: absolute;
+    top: 29vh;
+    left: 13vw;
+}
+.bookshelf2 {
+    height: 13vh;
+    width: 48vw;
+    position: absolute;
+    top: 75vh;
+    left: 8vw;
+}
+.stairs1 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 13vw;
+}
+.stairs2 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 16vw;
+}
+.stairs3 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 19vw;
+}
+.stairs4 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 22vw;
+}
+.stairs5 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 25vw;
+}
+.stairs6 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 28vw;
+}
+.stairs7 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 31vw;
+}
+.stairs8 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 34vw;
+}
+.stairs9 {
+    height: 18vh;
+    width: 20px;
+    position: absolute;
+    top: 43vh;
+    left: 37vw;
+}
+.sofa {
+    height: 25vh;
+    width: 60px;
+    position: absolute;
+    top: 43vh;
+    left: 41vw;
+}
+.desk {
+    height: 18vh;
+    width: 30vw;
+    position: absolute;
+    top: 51vh;
+    right: 7vw;
+}
+.shelf {
+    height: 11vh;
+    width: 5vw;
+    position: absolute;
+    top: 54vh;
+    right: 1vw;
+}
+.table {
+    height: 18vh;
+    width: 5vw;
+    position: absolute;
+    top:75vh;
+    right: 27vw;
+}
+.bed {
+    height: 18vh;
+    width: 25vw;
+    position: absolute;
+    top: 75vh;
+    right: 1vw;
+}
+.bigchair {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: 54vh;
+    right: 38vw;
+}
+.chair1 {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 45vh;
+    right: 20vw;
+}
+.chair2 {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 70vh;
+    right: 20vw;
+}
+.hanger {
+    height: 23vh;
+    width: 3vw;
+    position: absolute;
+    top: 75vh;
+    left: 57vw;
+}
